@@ -1,16 +1,8 @@
-# dice_roll_app
+# Roll_Dice
 
-A new Flutter project.
+Flutter Project for Rolling Dice, user have only 10 turns and when the dice is equal to 10,10 or 1,1 score will increase to 10.
+### **ScreenShots**
 
-## Getting Started
+<img src="https://github.com/FarazAlam201/Roll_Dice/assets/90208567/ba9d0d95-d3dc-4031-9bdf-4a310733f5a5" width="200" height="400" />
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="https://github.com/FarazAlam201/Roll_Dice/assets/90208567/6c1038cd-d111-4c2e-8ac3-d9909d63885a" width="200" height="400" />
